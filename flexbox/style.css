@@ -1,0 +1,19 @@
+body{
+    background-color: #343838;
+}
+
+.caixa{
+    background-color: #00b4cc;
+    width: 80%;
+    height: 400px;
+    display: flex;
+    border: 5px solid #005f6b;
+    border-radius: 5px;
+}
+
+.bolinha{
+    background-color: #005f6b;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
